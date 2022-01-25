@@ -8,6 +8,7 @@
 
 - Crear el proyecto.
 - Configurar el TOKEN.
+- Realizando una prueba
 - Iniciar el repositorio local.
 - Subir los cambios.
 
