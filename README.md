@@ -23,4 +23,4 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 
 ---
 Creado con ❤️
-por [Elena](https://github.com/Elengtz/) 😊
+por [Elena](https://github.com/Elengtz/)  y  [Miguel]😊
